@@ -1,4 +1,4 @@
-# craigCodingAssessment
+#Coding Assessment
 Code created for answering interview assessment
 
 1.	Write class that implements below interface. Write a function (using Java syntax) that prints out the numbers 1 to 500 with the following constraints:
